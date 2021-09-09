@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { server } from "../../../config";
+
 import Meta from "../../../components/Meta";
 // import { useRouter } from "next/router";
 

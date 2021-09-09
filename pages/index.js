@@ -1,5 +1,4 @@
 import ArticleList from "../components/ArticleList";
-import { server } from "../config";
 
 export default function Home({ articles }) {
   return (
